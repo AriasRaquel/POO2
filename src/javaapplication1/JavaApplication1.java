@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+
+/*juyfuygbuyfutfkyf
 package javaapplication1;
 
 /**
@@ -20,4 +23,3 @@ public class JavaApplication1 {
     
 }
 
-juyfuygbuyfutfkyf
